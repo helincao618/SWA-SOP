@@ -44,7 +44,7 @@ If you find this work or code useful, please cite our paper and give this repo a
   author = {Cao, Helin and Materla, Rafael and Behnke, Sven},
   booktitle = {IEEE Int. Conf. on Systems, Man, and Cybernetics (SMC)},
   year = {2025},
-}License and Acknowledgement
+}
 ```
 
 # License and Acknowledgement
