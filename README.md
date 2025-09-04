@@ -17,14 +17,6 @@
 
 <img src="./teaser/swasop.png"  />
 
-# Table of Content
-- [Preparing](#preparing)
-- [Running](#running)
-  - [Training](#training)
-  - [Evaluation](#evaluation)
-- [Citation](#citation)
-- [License and Acknowledgement](#license-and-acknowledgement)
-
 # Preparing
 
 Please follow the `/SWA-SOP/swasop/third_party/SparseTransformer/README.md`
@@ -48,11 +40,11 @@ python train.py --config path/to/config/semantic_kitti/
 If you find this work or code useful, please cite our paper and give this repo a star :)
 ```
 @inproceedings{cao2025swasop,
-  title = {{SW```A-SOP}: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving},
+  title = {{SWA-SOP}: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving},
   author = {Cao, Helin and Materla, Rafael and Behnke, Sven},
   booktitle = {IEEE Int. Conf. on Systems, Man, and Cybernetics (SMC)},
   year = {2025},
-}
+}License and Acknowledgement
 ```
 
 # License and Acknowledgement
