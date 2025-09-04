@@ -36,7 +36,7 @@ python train.py --config path/to/config/semantic_kitti/
 
 
 
-## Citation
+# Citation
 If you find this work or code useful, please cite our paper and give this repo a star :)
 ```
 @inproceedings{cao2025swasop,
